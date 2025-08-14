@@ -1,0 +1,36 @@
+table{
+       width: 50%;
+            border-collapse: collapse;
+            text-align: center;
+            margin:auto;
+}
+
+   th, td {
+            border: 1px solid #333;
+            padding: 8px;
+        }
+
+.hobi{
+        margin: auto;
+    padding: 0%;
+}
+
+.video{
+    margin: auto;
+    padding: 0%;
+}
+
+.musik{
+    margin: auto;
+    padding: 0%;
+}
+
+.biodata{
+    margin-left: auto;
+    padding: 0%;
+}
+
+ul, ol ,li {
+    margin: auto;
+    padding: 0%;
+}
