@@ -1,0 +1,39 @@
+
+#judul-halaman {
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 20px;
+    font-family: "Luckiest Guy", cursive;
+}
+
+p {
+    font-size: 14px;
+    color: #555;
+}
+
+.kartu {
+    width: 250px;
+    background-color: #fff;
+    margin: 30px auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    text-align: center;
+    transition: all 0.3s ease;
+    font-family: "Luckiest Guy", cursive;
+    color: #2c3e50;
+}
+
+.kartu .foto {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    object-fit: cover;
+    box-shadow:  5px 10px 10px rgba(255, 123, 0, 0.2);
+}
+
+.kartu:hover {
+    background-color: #f0f8ff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+}
